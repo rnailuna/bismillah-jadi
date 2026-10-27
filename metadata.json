@@ -1,0 +1,6 @@
+{
+  "name": "AGROGO - Pasar Tani Langsung Jawa",
+  "description": "Aplikasi jual beli hasil panen dan peternakan segar langsung dari petani Jawa dengan pelacakan pengiriman, inspeksi video call, Reels belanja, dan harga pasar real-time.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
